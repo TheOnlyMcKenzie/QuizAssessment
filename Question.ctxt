@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Question
+comment0.text=\r\n\ Support\ class\ for\ the\ questions\ in\ the\ quiz\r\n\ An\ individual\ question\ has\ a\ number\ (ID),\ a\ statement\ and\ a\ HashMap\ of\ answers\r\n\ Will\ try\ something\ to\ make\ having\ multiple\ answers\ work\ in\ the\ future\r\n\r\n\ @author\ James\ McKenzie\r\n\ @version\ 1.1\r\n
+comment1.params=id\ stmnt\ ans
+comment1.target=Question(int,\ java.lang.String,\ java.util.HashMap)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Question\r\n
+comment2.params=
+comment2.target=int\ getID()
+comment2.text=\r\n\ Getter\ method\ for\ the\ question\ number\r\n\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getQuestion()
+comment3.text=\r\n\ Getter\ method\ for\ the\ question\ statement\r\n\r\n\ \r\n
+comment4.params=
+comment4.target=java.util.HashMap\ getAnswers()
+comment4.text=\r\n\ Getter\ method\ for\ the\ answers\r\n\r\n\ \r\n
+comment5.params=
+comment5.target=void\ displayQuestion()
+comment5.text=\r\n\ Display\ the\ question\ in\ the\ GUI\r\n
+comment6.params=
+comment6.target=void\ displayAnswers()
+comment6.text=\r\n\ Display\ the\ question's\ answers\ in\ the\ GUI\r\n
+numComments=7

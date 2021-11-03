@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ Class\ to\ handle\ all\ GUI\ functionality\ (user\ inputs\ and\ outputs)\r\n\r\n\ @author\ James\ McKenzie\r\n\ @version\ 1/07/2021\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUI\r\n
+comment2.params=
+comment2.target=void\ runQuiz()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ \r\n
+numComments=3
