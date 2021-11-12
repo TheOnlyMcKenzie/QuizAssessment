@@ -5,7 +5,7 @@
  * 
  *
  * @author James McKenzie
- * @version 1.1
+ * @version 4.0 (Final version)
  */
 public class Answer
 {
