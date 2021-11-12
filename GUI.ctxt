@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ Class\ to\ handle\ all\ GUI\ functionality\ (user\ inputs\ and\ outputs)\r\n\r\n\ @author\ James\ McKenzie\r\n\ @version\ 4.0\ (final\ version)\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUI\r\n
+comment2.params=
+comment2.target=void\ runQuiz()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ \r\n
+comment3.params=
+comment3.target=void\ restartQuiz()
+comment4.params=
+comment4.target=void\ doSkip()
+comment5.params=score\ questions
+comment5.target=void\ displayScore(int,\ java.util.HashMap)
+comment5.text=\r\n\ Display\ the\ score\ at\ the\ end\ of\ the\ quiz\r\n
+comment6.params=
+comment6.target=void\ intro()
+comment7.params=ms
+comment7.target=void\ wait(int)
+numComments=8
