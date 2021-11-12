@@ -5,7 +5,7 @@ import ecs100.*; // importing the ecs100 library
  * Driver class
  *
  * @author James McKenzie
- * @version 2.0
+ * @version 4.0 (final version)
  */
 public class Quiz
 {
@@ -88,16 +88,16 @@ public class Quiz
         
         
         // Create some sample questions (for testing)
-        Question q1 = new Question(1, "What band wrote the song 'Fake Plastic Trees'?", answers1);
-        Question q2 = new Question(2, "What famous astronomer is mentioned in the song 'Bohemian Rhapsody'?", answers2);
-        Question q3 = new Question(3, "Which of these bands is often credited for pioneering the subgenre known as shoegaze?", answers3);
-        Question q4 = new Question(4, "What rapper said the infamous line 'I talk to God everyday, He my bestie' in 2021?", answers4);
-        Question q5 = new Question(5, "Spencer Elden lodged a lawsuit over the use of his image on the album 'Nevermind' by what band?", answers5);
-        Question q6 = new Question(6, "What former rapper dropped the second-worst pop-punk album of 2020?", answers6);
-        Question q7 = new Question(7, "What rapper wore a suit of gold-plated armour to the 2021 Met Gala?", answers7);
-        Question q8 = new Question(8, "Which of the following bands were NOT active during the 1970s?", answers8);
-        Question q9 = new Question(9, "What Beatles song contains the lyric 'I look at all the lonely people'?", answers9);
-        Question q10 = new Question(10, "What musician created the character known as the 'Thin White Duke'?", answers10);
+        Question q1 = new Question(1, "What band wrote the song 'Fake Plastic Trees'?", answers1, "image_1.jpg");
+        Question q2 = new Question(2, "What famous astronomer is mentioned in the song 'Bohemian Rhapsody'?", answers2, "image_2.jpg");
+        Question q3 = new Question(3, "Which of these bands is often credited for pioneering the subgenre known as shoegaze?", answers3, "image_3.jpg");
+        Question q4 = new Question(4, "What rapper said the infamous line 'I talk to God everyday, He my bestie' in 2021?", answers4, "image_4.jfif");
+        Question q5 = new Question(5, "Spencer Elden lodged a lawsuit over the use of his image on the album 'Nevermind' by what band?", answers5, "image_5.jpeg");
+        Question q6 = new Question(6, "What former rapper dropped the second-worst pop-punk album of 2020?", answers6, "image_6.png");
+        Question q7 = new Question(7, "What rapper wore a suit of gold-plated armour to the 2021 Met Gala?", answers7, "image_7.jpg");
+        Question q8 = new Question(8, "Which of the following bands were NOT active during the 1970s?", answers8, "image_8.png");
+        Question q9 = new Question(9, "What Beatles song contains the lyric 'I look at all the lonely people'?", answers9, "image_9.jpg");
+        Question q10 = new Question(10, "What musician created the character known as the 'Thin White Duke'?", answers10, "image_10.jpg");
         
         
         //Add the questions
